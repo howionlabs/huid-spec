@@ -193,6 +193,10 @@ The official reference implementation (in TypeScript) is available at [github.co
 - [ULID canonical specification](https://github.com/ulid/spec)
 - [KSUID reference repository](https://github.com/segmentio/ksuid)
 
+## License
+
+This specification is licensed under the [CC-BY-SA 3.0](./LICENSE) © 2026 Howion Inc.
+
 ## Appendix A. HUID Example
 
 Given:
